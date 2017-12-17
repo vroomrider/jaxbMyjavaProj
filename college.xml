@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<college>
+    <college-name>Jspders</college-name>
+    <Student-List>
+        <Student-Info>
+            <reg-num>100</reg-num>
+            <first-name>Pradeep</first-name>
+            <last-name>Naik</last-name>
+        </Student-Info>
+        <Student-Info>
+            <reg-num>100</reg-num>
+            <last-name>Naik</last-name>
+        </Student-Info>
+    </Student-List>
+</college>
