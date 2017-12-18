@@ -5,6 +5,11 @@ import javax.ws.rs.client.ClientBuilder;
 import javax.ws.rs.client.WebTarget;
 import javax.ws.rs.core.Response;
 
+/**
+ * @Email - @praveen4students @gmail.com
+ * @author hacker
+ *
+ */
 public class TextLocalSendSmsRestClient {
 
 	public static final String APIKEY = "HmU7MA9Pqo4-d7L3NZfyKQy6eraX9ZZsO6SjBUdJ1y";
